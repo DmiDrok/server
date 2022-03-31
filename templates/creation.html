@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{{ super() }}
+
+{% block content %}
+
+<div class="creation_chapters_block">
+    <div class="head_creation">
+        <a href="{{ url_for('page_writer', translit_name=writer) }}">
+            {{ writer_name }}
+        </a>
+        <h3>
+            <span>
+                <i id="line1"></i>
+                {{ creation_name }}
+                <br>
+                <i id="line2"></i>
+            </span>
+        </h3>
+    </div>
+
+    <div class="text_creation">
+        {{ text_creation | safe }}
+    </div>
+
+    <div class="chapters_creation">
+        <ul>
+            {% for c in chapters %}
+                <li><a href="{{ url_for('page_creation_content', writer=writer, translit_creation_name=translit_creation_name, chapter=c)}}">{{ c }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+{{ super() }}
+
+{% block content %}
+
+<div class="content_creation_block" id="content_creation">
+
+    <!--Ссылка на произведение-->
+    <h4 id="title_creation"><a href="{{ url_for('page_creation', writer=writer, translit_creation_name=translit_creation_name) }}">{{ creation_name }}</a></h4>
+
+    <div class="over_chapters" id="top_chapters">
+        <ul>
+            {% for c in chapters %}
+            <li>
+                {% if c == active_chapter %}
+                <a href="{{ url_for('page_creation_content', writer=writer, translit_creation_name=translit_creation_name, chapter=c)}}" id="a_active">{{ c }}</a>
+                {% else %}
+                <a href="{{ url_for('page_creation_content', writer=writer, translit_creation_name=translit_creation_name, chapter=c)}}">{{ c }}</a>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    {{ text_content | safe }}
+
+    <div class="over_chapters" id="bottom_chapters">
+        <ul>
+            {% for c in chapters %}
+            <li>
+                {% if c == active_chapter %}
+                <a href="{{ url_for('page_creation_content', writer=writer, translit_creation_name=translit_creation_name, chapter=c)}}" id="a_active">{{ c }}</a>
+                {% else %}
+                <a href="{{ url_for('page_creation_content', writer=writer, translit_creation_name=translit_creation_name, chapter=c)}}">{{ c }}</a>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+<!--Скрипт позволяющий скрыть нижний блок с главами при малых размерах блока с содержанием-->
+<script>
+    var user_screen_height = window.screen.height;  //Высота экрана пользователя
+    var block_content_height = document.getElementById("content_creation").clientHeight; //Высота блока
+
+    if(user_screen_height > block_content_height){
+        document.getElementById("bottom_chapters").style.display = "none"; //Установка св-ва display в none
+    };
+</script>
+
+{% endblock %}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+
+        {% if title %}
+        <title>Библиотека - {{ title }}</title>
+        {% else %}
+        <title>Библиотека</title>
+        {% endif %}
+
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+        <link rel="icon" href="{{ url_for('static', filename='img/title_logo.png') }}">
+    </head>
+
+    <body>
+
+        <!--Блок с контентом-->
+        <section class="content">
+            <div class="head_content">
+
+                <!--Цитата-->
+                <div class="quote">
+                    <p>
+                        Успех идей зависит от того, насколько масса "интересуется" известными целями и насколько эти цели вызывают энтузиазм масс. "Идея" неизменно посрамляла себя, лишь только она отделялась от интереса масс.
+                    </p>
+                </div>
+                <!--Логотип-->
+                <div class="logo_block">
+                    <a href="{{ url_for('index') }}" title="На главную">
+                        <div class="logo">
+                            <!--<img src="{{ url_for('static', filename='img/logo2.png') }}" alt="Логотип">-->
+                            <div id="img_logo"></div>
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+
+                <!--Остальной контент-->
+                {% block content %}
+
+                {% endblock %}
+        </section>
+
+    </body>
+</html>

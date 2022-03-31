@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{{ super() }}
+
+{% block content %}
+
+<div class="content_writer">
+
+    <!--Ссылка на главную страницу-->
+    <h4 id="to_main"><a href="{{ url_for('index') }}">На главную</a></h4>
+
+    <div class="writer_name_title">
+        <h3>
+            <span>
+                <i id="line1"></i>
+                {{ writer_name }}
+                <i id="line2"></i>
+            </span>
+        </h3>
+    </div>
+
+    <div class="writer_creations">
+        <ul>
+            {% for b in books %}
+            <li><a href="{{ url_for('page_creation', writer=translit_name, translit_creation_name=b.book_url[1::]) }}">{{ b.book_name }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+
+{% endblock %}

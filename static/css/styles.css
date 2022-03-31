@@ -1,0 +1,432 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*::selection
+{
+    background: #f56161;
+}
+
+body
+{
+    min-height: 100vh;
+    background-color: #EDEEF0;
+    min-width: 900px;
+}
+
+.content
+{
+    display: grid;
+    grid-row-gap: 2rem;
+    width: 75%;
+    margin: 1rem auto;
+}
+
+.content .head_content
+{
+    box-shadow: 0px 1px 2px 1px rgba(200, 200, 200, 0.3);
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 150px;
+    padding: 1rem 2.5rem;
+
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 70% 30%;
+}
+
+.content .main_content
+{
+    box-shadow: 0px 1px 2px 1px rgba(200, 200, 200, 0.3);
+    background-color: #ffffff;
+    border-radius: 10px;
+    min-height: 500px;
+    padding: 3rem;
+    position: relative;
+}
+
+.writers_block
+{
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    grid-template-rows: repeat(auto-fit, 50px);
+    grid-auto-flow: row;
+    grid-gap: 1rem;
+}
+
+.content .head_content .logo
+{
+    position: relative;
+    width: 90px;
+    height: 90px;
+    transition: .1s;
+}
+
+.content .head_content .logo img
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#img_logo
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url("../img/logo1.png");
+    background-size: cover;
+}
+
+.logo_block a:hover #img_logo
+{
+    background-image: url("../img/logo2.png");
+}
+
+.content .head_content .quote
+{
+    display: grid;
+    align-content: center;
+}
+
+.content .head_content .quote p
+{
+    font-size: 20px;
+}
+
+.content .head_content .quote p::first-letter
+{
+    font-size: 30px;
+    color: #ff0000;
+    margin-right: 3px;
+}
+
+.content .head_content .logo_block
+{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.writer
+{
+    padding: 1rem;
+    border: 1px solid #000;
+    transition: .1s;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.writer p
+{
+    font-size: 18px;
+    color: #606060;
+}
+
+.writer:hover
+{
+    background: rgba(255, 0, 0, 0.2);
+}
+
+.writer_name_title span, .head_creation span
+{
+    position: relative;
+}
+
+.writer_name_title h3, .head_creation h3
+{
+    font-family: Georgia;
+    font-weight: 400;
+    font-size: 22px;
+    width: 60%;
+    cursor: default;
+    margin-top: 10px;
+}
+
+.writer_name_title h3
+{
+    font-family: Georgia;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: underline;
+    color: #000;
+}
+
+.head_creation a
+{
+    font-family: Georgia;
+    font-weight: 400;
+    font-size: 15px;
+    text-decoration: underline;
+    color: #000;
+}
+
+.head_creation a:hover
+{
+    color: red;
+}
+
+#line1, #line2
+{
+    position: absolute;
+    height: 1px;
+    background-color: #000;
+    width: 3px;
+}
+
+#line1
+{
+    left: -20px;
+    top: 13px;
+    width: 15px;
+}
+
+#line2
+{
+    right: -45px;
+    top: 13px;
+    width: 45px;
+}
+
+.content_writer
+{
+    font-family: Georgia;
+    box-shadow: 0px 1px 2px 1px rgba(200, 200, 200, 0.3);
+    background-color: #ffffff;
+    border-radius: 10px;
+    min-height: 500px;
+    padding: 3rem;
+}
+
+.writer_creations
+{
+    margin: 2rem 0 0 2rem;
+}
+
+.writer_creations ul li a, .chapters_creation ul li a
+{
+    font-size: 17px;
+    color: #000;
+}
+
+.writer_creations ul li a:hover, .chapters_creation ul li a:hover
+{
+    color: #ff0000;
+}
+
+.writer_creations ul li:not(:first-child), .chapters_creation ul li:not(:first-child)
+{
+    margin-top: 5px;
+}
+
+/*Стили для отображения глав книг и прочего*/
+.creation_chapters_block, .content_creation_block
+{
+    font-family: Georgia;
+    box-shadow: 0px 1px 2px 1px rgba(200, 200, 200, 0.3);
+    background-color: #ffffff;
+    border-radius: 10px;
+    min-height: 500px;
+    padding: 3rem;
+}
+
+.head_creation h3
+{
+    font-weight: 400;
+}
+
+.chapters_creation
+{
+    margin: 2rem 0 0 2rem;
+}
+
+
+/*На страницах с содержанием книги*/
+.content_creation_block h2, .text_creation h2
+{
+    text-align: center;
+    font-weight: 600;
+    margin: 1rem;
+}
+
+.content_creation_block h3, .text_creation h3
+{
+    text-align: center;
+    margin: 0.5rem 0 ;
+}
+
+.content_creation_block p, .text_creation p
+{
+    margin: 1rem 0;
+}
+
+.content_creation_block p::first-letter, .text_creation p::first-letter
+{
+    font-size: 16px;
+    margin-left: 40px;
+}
+
+.content_creation_block hr, .text_creation hr
+{
+    color: red;
+}
+
+.content_creation_block blockquote, .text_creation blockquote
+{
+    padding: 10px 40px;
+}
+
+.over_chapters:not(:nth-child(1))
+{
+    margin-top: 2rem;
+}
+
+.over_chapters:nth-child(1)
+{
+    margin-bottom: 2rem;
+}
+
+.over_chapters ul
+{
+    list-style: circle;
+}
+
+.over_chapters ul li
+{
+    display: inline;
+}
+
+.over_chapters ul li
+{
+    margin-left: .5rem;
+}
+
+.over_chapters ul li a:visited
+{
+    color: #2179D2;
+}
+
+.over_chapters ul li a:hover
+{
+    color: red;
+}
+
+.over_chapters #a_active
+{
+    color: red;
+    text-decoration: overline;
+}
+
+.content_creation_block .dop_ul
+{
+    margin-bottom: 1rem;
+}
+
+.content_creation_block .dop_ul li a:visited
+{
+    color: #2179D2;
+}
+
+.content_creation_block .dop_ul li a:hover
+{
+    color: red;
+}
+
+#title_creation a, #to_main a
+{
+    color: #000;
+    font-family: Georgia;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#title_creation a:hover, #to_main a:hover
+{
+    color: red;
+}
+
+.search_block
+{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+
+.search_block form
+{
+    position: relative;
+}
+
+.search_block form input[type="text"]
+{
+    outline: none;
+    padding: 3px;
+}
+
+.search_block form input[type="submit"]
+{
+    background: none;
+    border: 1px solid #000;
+    cursor: pointer;
+    padding: 4px;
+    font-weight: 500;
+    right: 0px;
+    position: absolute;
+}
+
+.search_block form input[type="submit"]:hover
+{
+    background-color: rgb(250, 250, 250);
+}
+
+/*Предисловие перед главами*/
+.text_creation
+{
+    margin-top: 2rem;
+}
+
+.text_creation p
+{
+    margin: 1rem 0;
+}
+
+.text_creation p::first-letter
+{
+    font-size: 16px;
+    margin-left: 40px;
+}
+
+.text_creation h2
+{
+    text-align: center;
+    font-weight: 600;
+    margin: 1rem;
+}
+
+.quote_writer
+{
+    display: grid;
+}
+
+.quote_writer p
+{
+    display: grid;
+    font-style: italic;
+    width: 60%;
+    font-size: 14px;
+    justify-self: end;
+}
+
+.quote_writer p::first-letter
+{
+    margin: 0;
+}
+
+.quote_writer p i
+{
+    justify-self: end;
+}

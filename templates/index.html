@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{{ super() }}
+
+{% block content %}
+    <div class="main_content">
+
+        <!--Поиск-->
+        <div class="search_block">
+            <form action="{{ url_for('index') }}" method="POST">
+                <input type="text" name="writer_name_search" placeholder="Имя писателя" />
+                <input type="submit" value=">" />
+            </form>
+        </div>
+
+        <!--Писатели-->
+        <div class="writers_block">
+            {% for w in writers %}
+            <a href="{{url_for('page_writer', translit_name=w.writer_url)}}" class="writer">
+                <p>{{ w.writer_name }}</p>
+            </a>
+            {% endfor %}
+        </div>
+        
+    </div>
+{% endblock %}

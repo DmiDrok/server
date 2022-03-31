@@ -1,0 +1,393 @@
+<h2>VI. Раздел мира между великими державами</h3>
+<p>Географ А. Супан в своей книге о «территориальном развитии европейских колоний»<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> подводит следующий краткий итог этому развитию в конце XIX века:
+</p>
+<table align="center" style="font-size:100%; width:100%;">
+<caption><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Процент земельной площади, принадлежащей европейским <br/>колониальным державам (С. Штаты в том числе):</span>
+</caption>
+<tbody><tr>
+<td style="width:30%;">
+</td>
+<td style="text-align:center"><i>1876</i>
+</td>
+<td style="text-align:center"><i>1900</i>
+</td>
+<td style="text-align:center">Увеличение на
+</td></tr>
+<tr>
+<td>В Африке<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>10,8 %
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>90,4 %
+</td>
+<td style="text-align:center">+79,6 %
+</td></tr>
+<tr>
+<td><span style="visibility:hidden;position:relative"><span style="visibility:visible;position:absolute;display:inline-table;overflow:hidden;width:100%;text-align:center;text-indent:0px;hyphens:none;">»</span>В</span> Полинезии<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>56,8 %
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>98,9 %
+</td>
+<td style="text-align:center">+42,1 %
+</td></tr>
+<tr>
+<td><span style="visibility:hidden;position:relative"><span style="visibility:visible;position:absolute;display:inline-table;overflow:hidden;width:100%;text-align:center;text-indent:0px;hyphens:none;">»</span>В</span> Азии<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>51,5 %
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>56,6 %
+</td>
+<td style="text-align:center">+<span style="visibility:hidden">0</span>5,1 %
+</td></tr>
+<tr>
+<td><span style="visibility:hidden;position:relative"><span style="visibility:visible;position:absolute;display:inline-table;overflow:hidden;width:100%;text-align:center;text-indent:0px;hyphens:none;">»</span>В</span> Австралии<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.
+</td>
+<td style="text-align:center">100,0 %
+</td>
+<td style="text-align:center">100,0 %
+</td>
+<td style="text-align:center">—
+</td></tr>
+<tr>
+<td><span style="visibility:hidden;position:relative"><span style="visibility:visible;position:absolute;display:inline-table;overflow:hidden;width:100%;text-align:center;text-indent:0px;hyphens:none;">»</span>В</span> Америке<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>27,5 %
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>27,2 %
+</td>
+<td style="text-align:center">?<span style="visibility:hidden">0</span>0,3 %
+</td></tr></tbody></table>
+<p>«Характеристичной чертой этого периода, — заключает он, — является, следовательно, раздел Африки и Полинезии». Так как в Азии и в Америке незанятых земель, т. е. не принадлежащих никакому государству, нет, то вывод Супана приходится расширить и сказать, что характеристичной чертой рассматриваемого периода является окончательный раздел земли, окончательный не в том смысле, чтобы не возможен был <i>передел</i>, — напротив, переделы возможны и неизбежны, — а в том смысле, что колониальная политика капиталистических стран <i>закончила</i> захват незанятых земель на нашей планете. Мир впервые оказался уже поделённым, так что дальше предстоят <i>лишь</i> переделы, т. е. переход от одного «владельца» к другому, а не от бесхозяйности к «хозяину».
+</p><p>Мы переживаем, следовательно, своеобразную эпоху всемирной колониальной политики, которая теснейшим образом связана с «новейшей ступенью в развитии капитализма», с финансовым капиталом. Необходимо поэтому подробнее остановиться прежде всего на фактических данных, чтобы возможно точнее выяснить как отличие этой эпохи от предыдущих, так и положение дела в настоящее время. В первую голову возникают здесь два фактических вопроса: наблюдается ли усиление колониальной политики, обострение борьбы за колонии именно в эпоху финансового капитала и как именно поделён мир в этом отношении в настоящее время.
+</p><p>Американский писатель Моррис в своей книге об истории колонизации<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> делает попытку свести данные о размерах колониальных владений Англии, Франции и Германии за разные периоды XIX века. Вот, в сокращении, полученные им итоги:
+</p>
+<table align="center" style="font-size:80%; width:100%;">
+<caption><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Размеры колониальных владений</span>
+</caption>
+<tbody><tr>
+<td rowspan="2" style="text-align:center"><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Годы</span>
+</td>
+<td colspan="2" style="text-align:center"><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Англии</span>
+</td>
+<td colspan="2" style="text-align:center"><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Франции</span>
+</td>
+<td colspan="2" style="text-align:center"><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Германии</span>
+</td></tr>
+<tr>
+<td style="text-align:center">площадь <br/>(млн. кв.<br/>миль)
+</td>
+<td style="text-align:center">население <br/>(млн.)
+</td>
+<td style="text-align:center">площадь <br/>(млн. кв.<br/>миль)
+</td>
+<td style="text-align:center">население <br/>(млн.)
+</td>
+<td style="text-align:center">площадь <br/>(млн. кв.<br/>миль)
+</td>
+<td style="text-align:center">население <br/>(млн.)
+</td></tr>
+<tr>
+<td>1815—1830
+</td>
+<td style="text-align:center">?
+</td>
+<td style="text-align:center">126,4
+</td>
+<td style="text-align:center">0,02
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>0,5
+</td>
+<td style="text-align:center">—
+</td>
+<td style="text-align:center">—
+</td></tr>
+<tr>
+<td><span style="visibility:hidden">1815—</span>1860
+</td>
+<td style="text-align:center">2,5
+</td>
+<td style="text-align:center">145,1
+</td>
+<td style="text-align:center">0,2<span style="visibility:hidden">0</span>
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>3,4
+</td>
+<td style="text-align:center">—
+</td>
+<td style="text-align:center">—
+</td></tr>
+<tr>
+<td><span style="visibility:hidden">1815—</span>1880
+</td>
+<td style="text-align:center">7,7
+</td>
+<td style="text-align:center">267,9
+</td>
+<td style="text-align:center">0,7<span style="visibility:hidden">0</span>
+</td>
+<td style="text-align:center"><span style="visibility:hidden">0</span>7,5
+</td>
+<td style="text-align:center">—
+</td>
+<td style="text-align:center">—
+</td></tr>
+<tr>
+<td><span style="visibility:hidden">1815—</span>1899
+</td>
+<td style="text-align:center">9,3
+</td>
+<td style="text-align:center">309,9
+</td>
+<td style="text-align:center">3,7<span style="visibility:hidden">0</span>
+</td>
+<td style="text-align:center">56,4
+</td>
+<td style="text-align:center">1,0
+</td>
+<td style="text-align:center">14,7
+</td></tr></tbody></table>
+<p>Для Англии период громадного усиления колониальных захватов приходится на 1860—1880 годы и очень значительного на последнее двадцатилетие XIX века. Для Франции и Германии — именно на это двадцатилетие. Мы видели выше, что период предельного развития капитализма домонополистического, капитализма с преобладанием свободной конкуренции, приходится на 1860 и 1870 годы. Мы видим теперь, что <i>именно после этого периода</i> начинается громадный «подъём» колониальных захватов, обостряется в чрезвычайной степени борьба за территориальный раздел мира. Несомненен, следовательно, тот факт, что переход капитализма к ступени монополистического капитализма, к финансовому капиталу <i>связан</i> с обострением борьбы за раздел мира.
+</p><p>Гобсон в своём сочинении об империализме выделяет эпоху 1884—1900 гг., как эпоху усиленной «экспансии» (расширения территории) главных европейских государств. По его расчёту, Англия приобрела за это время 3,7 миллиона кв. миль с населением в 57 млн; Франция — 3,6 млн кв. миль с населением в 36? млн; Германия — 1,0 млн. кв. миль с 14,7 млн; Бельгия — 900 тыс. кв. миль с 30 млн; Португалия — 800 тыс. кв. миль с 9 млн. Погоня за колониями в конце XIX века, особенно с 1880 годов, со стороны всех капиталистических государств представляет из себя общеизвестный факт истории дипломатии и внешней политики.
+</p><p>В эпоху наибольшего процветания свободной конкуренции в Англии, в 1840—1860 годах, руководящие буржуазные политики её были <i>против</i> колониальной политики, считали освобождение колоний, полное отделение их от Англии неизбежным и полезным делом, М. Бер указывает в своей, появившейся в 1898 г., статье о «новейшем английском империализме»<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>, как в 1852 году такой склонный, вообще говоря, к империализму государственный деятель Англии, как Дизраэли, говорил: «Колонии, это — мельничные жернова на нашей шее». А в конце XIX века героями дня в Англии были Сесиль Родс и Джозеф Чемберлен, открыто проповедовавшие империализм и применявшие империалистскую политику с наибольшим цинизмом!
+</p><p>Небезынтересно, что связь чисто, так сказать, экономических и социально-политических корней новейшего империализма была уже тогда ясна для этих руководящих политиков английской буржуазии. Чемберлен проповедовал империализм как «истинную, мудрую и экономную политику», указывая особенно на ту конкуренцию, которую встречает теперь Англия на мировом рынке со стороны Германии, Америки, Бельгии. Спасение в монополии — говорили капиталисты, основывая картели, синдикаты, тресты. Спасение в монополии — вторили политические вожди буржуазии, торопясь захватить ещё неподелённые части мира. А Сесиль Родс, как рассказывал его интимный друг, журналист Стэд, говорил ему по поводу своих империалистских идей в 1895 году: «Я был вчера в лондонском Ист-Энде (рабочий квартал) и посетил одно собрание безработных. Когда я послушал там дикие речи, которые были сплошным криком: хлеба, хлеба!, я, идя домой и размышляя о виденном, убедился более, чем прежде, в важности империализма… Моя заветная идея есть решение социального вопроса, именно: чтобы спасти сорок миллионов жителей Соединённого Королевства от убийственной гражданской войны, мы, колониальные политики, должны завладеть новыми землями для помещения избытка населения, для приобретения новых областей сбыта товаров, производимых на фабриках и в рудниках. Империя, я всегда говорил это, есть вопрос желудка. Если вы не хотите гражданской войны, вы должны стать империалистами»<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>.
+</p><p>Так говорил Сесиль Родс в 1895 г., миллионер, финансовый король, главный виновник англо-бурской войны; а ведь его защита империализма только грубовата, цинична, по сути же не отличается от «теории» гг. Маслова, Зюдекума, Потресова, Давида, основателя русского марксизма и пр. и пр. Сесиль Родс был немножко более честным социал-шовинистом…
+</p><p>Для того, чтобы дать возможно более точную картину территориального раздела мира и изменений в этом отношении за последние десятилетия, воспользуемся теми сводками, которые дает Супан в названном сочинении по вопросу о колониальных владениях всех держав мира. Супан берет 1876 и 1900 годы; мы возьмем 1876 — пункт, выбранный очень удачно, ибо именно к этому времени можно, в общем и целом, считать законченным развитие западноевропейского капитализма в его домонополистической стадии — и 1914, заменяя цифры Супана более новыми по «Географически-статистическим таблицам» Гюбнера. Супан берёт только колонии; мы считаем полезным — для того, чтобы представить полную картину раздела мира, — добавить сведения, вкратце, и о неколониальных странах и о полуколониях, к которым мы относим Персию, Китай и Турцию: первая из этих стран почти целиком стала уже колонией, вторая и третья становятся таковыми. Получаем следующие итоги:
+</p>
+<table align="center" class="standard" style="font-size:75%; width:100%;">
+<caption><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Колониальные владения великих держав: <br/>(млн. кв. км и млн. жителей)</span>
+</caption>
+<tbody><tr>
+<td rowspan="3" style="text-align:center; border-left:hidden">
+</td>
+<td colspan="4" style="text-align:center"><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Колонии</span>
+</td>
+<td colspan="2" style="text-align:center"><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Метрополии</span>
+</td>
+<td colspan="2" style="text-align:center; border-right:hidden"><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Всего</span>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center">1876
+</td>
+<td colspan="2" style="text-align:center">1914
+</td>
+<td colspan="2" style="text-align:center">1914
+</td>
+<td colspan="2" style="text-align:center; border-right:hidden">1914
+</td></tr>
+<tr>
+<td style="text-align:center">кв. км.
+</td>
+<td style="text-align:center">жит.
+</td>
+<td style="text-align:center">кв. км.
+</td>
+<td style="text-align:center">жит.
+</td>
+<td style="text-align:center">кв. км.
+</td>
+<td style="text-align:center">жит.
+</td>
+<td style="text-align:center">кв. км.
+</td>
+<td style="text-align:center; border-right:hidden">жит.
+</td></tr>
+<tr>
+<td style="border-left:hidden; border-bottom:hidden"><span style="white-space: nowrap;">Англия<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.</span>
+</td>
+<td style="text-align:center; border-bottom:hidden">22,5
+</td>
+<td style="text-align:center; border-bottom:hidden">251,9
+</td>
+<td style="text-align:center; border-bottom:hidden">33,5
+</td>
+<td style="text-align:center; border-bottom:hidden">393,5
+</td>
+<td style="text-align:center; border-bottom:hidden">0,3
+</td>
+<td style="text-align:center; border-bottom:hidden">46,5
+</td>
+<td style="text-align:center; border-bottom:hidden">33,8
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden">440,0
+</td></tr>
+<tr>
+<td style="border-left:hidden; border-bottom:hidden"><span style="white-space: nowrap;">Россия<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.</span>
+</td>
+<td style="text-align:center; border-bottom:hidden">17,0
+</td>
+<td style="text-align:center; border-bottom:hidden">15,9
+</td>
+<td style="text-align:center; border-bottom:hidden">17,4
+</td>
+<td style="text-align:center; border-bottom:hidden">33,2
+</td>
+<td style="text-align:center; border-bottom:hidden">5,4
+</td>
+<td style="text-align:center; border-bottom:hidden">136,2
+</td>
+<td style="text-align:center; border-bottom:hidden">22,8
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden">169,4
+</td></tr>
+<tr>
+<td style="border-left:hidden; border-bottom:hidden"><span style="white-space: nowrap;">Франция<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.</span>
+</td>
+<td style="text-align:center; border-bottom:hidden">0,9
+</td>
+<td style="text-align:center; border-bottom:hidden">6,0
+</td>
+<td style="text-align:center; border-bottom:hidden">10,6
+</td>
+<td style="text-align:center; border-bottom:hidden">55,5
+</td>
+<td style="text-align:center; border-bottom:hidden">0,5
+</td>
+<td style="text-align:center; border-bottom:hidden">39,6
+</td>
+<td style="text-align:center; border-bottom:hidden">11,1
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden">95,1
+</td></tr>
+<tr>
+<td style="border-left:hidden; border-bottom:hidden"><span style="white-space: nowrap;">Германия<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.</span>
+</td>
+<td style="text-align:center; border-bottom:hidden">—
+</td>
+<td style="text-align:center; border-bottom:hidden">—
+</td>
+<td style="text-align:center; border-bottom:hidden">2,9
+</td>
+<td style="text-align:center; border-bottom:hidden">12,3
+</td>
+<td style="text-align:center; border-bottom:hidden">0,5
+</td>
+<td style="text-align:center; border-bottom:hidden">64,9
+</td>
+<td style="text-align:center; border-bottom:hidden">3,4
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden">77,2
+</td></tr>
+<tr>
+<td style="border-left:hidden; border-bottom:hidden"><span style="white-space: nowrap;">С. Штаты<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.</span>
+</td>
+<td style="text-align:center; border-bottom:hidden">—
+</td>
+<td style="text-align:center; border-bottom:hidden">—
+</td>
+<td style="text-align:center; border-bottom:hidden">0,3
+</td>
+<td style="text-align:center; border-bottom:hidden">9,7
+</td>
+<td style="text-align:center; border-bottom:hidden">9,4
+</td>
+<td style="text-align:center; border-bottom:hidden">97,0
+</td>
+<td style="text-align:center; border-bottom:hidden">9,7
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden">106,7
+</td></tr>
+<tr>
+<td style="border-left:hidden"><span style="white-space: nowrap;">С. Штаты<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.</span>
+</td>
+<td style="text-align:center">—
+</td>
+<td style="text-align:center">—
+</td>
+<td style="text-align:center">0,3
+</td>
+<td style="text-align:center">19,2
+</td>
+<td style="text-align:center">0,4
+</td>
+<td style="text-align:center">53,0
+</td>
+<td style="text-align:center">0,7
+</td>
+<td style="text-align:center; border-right:hidden">72,2
+</td></tr>
+<tr>
+<td style="border-left:hidden; border-bottom:hidden"><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Итого 6 великих <br/>держав</span><span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.<span style="display:inline-block; width:0.1em;"> </span>.
+</td>
+<td style="text-align:center; border-bottom:hidden; vertical-align:bottom">40,4
+</td>
+<td style="text-align:center; border-bottom:hidden; vertical-align:bottom">273,8
+</td>
+<td style="text-align:center; border-bottom:hidden; vertical-align:bottom">65,0
+</td>
+<td style="text-align:center; border-bottom:hidden; vertical-align:bottom">523,4
+</td>
+<td style="text-align:center; border-bottom:hidden; vertical-align:bottom">16,5
+</td>
+<td style="text-align:center; border-bottom:hidden; vertical-align:bottom">437,2
+</td>
+<td style="text-align:center; border-bottom:hidden; vertical-align:bottom">81,5
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden; vertical-align:bottom">960,6
+</td></tr>
+<tr>
+<td colspan="7" style="border-left:hidden; border-bottom:hidden; border-right:hidden"><span style="white-space: nowrap;">Колонии остальных держав (Бельгия, Голландия и пр.)<span style="letter-spacing:0.5ex">.....................................</span></span>
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden"><span style="visibility:hidden">00</span>9,9
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden"><span style="visibility:hidden">0 0</span>45,3
+</td></tr>
+<tr>
+<td colspan="7" style="border-left:hidden; border-bottom:hidden; border-right:hidden"><span style="white-space: nowrap;">Полуколонии (Персия, Китай, Турция)<span style="letter-spacing:0.5ex">......................................................</span></span>
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden"><span style="visibility:hidden">0</span>14,5
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden"><span style="visibility:hidden">0 </span>361,2
+</td></tr>
+<tr>
+<td colspan="7" style="border-left:hidden; border-right:hidden"><span style="white-space: nowrap;">Остальные страны <span style="letter-spacing:0.5ex">..........................................................................</span></span>
+</td>
+<td style="text-align:center; border-right:hidden"><span style="visibility:hidden">0</span>28,0
+</td>
+<td style="text-align:center; border-right:hidden"><span style="visibility:hidden">0 </span>289,9
+</td></tr>
+<tr>
+<td colspan="7" style="border-left:hidden; border-bottom:hidden; border-right:hidden"><span style="white-space: nowrap;"><span style="visibility:hidden">остал</span><span style="letter-spacing: 0.15em;   margin-left: 0.2em;">Вся земля</span> <span style="letter-spacing:0.5ex">..........................................................................</span></span>
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden">133,9
+</td>
+<td style="text-align:center; border-bottom:hidden; border-right:hidden">1 657,0
+</td></tr></tbody></table>
+<p>Мы видим тут наглядно, как «закончен» был на границе XIX и XX веков раздел мира. Колониальные владения расширились после 1876 года в гигантских размерах: более чем в полтора раза, с 40 до 65 миллионов  км? у шести крупнейших держав; прирост составляет 25 млн кв. км, в полтора раза больше площади метрополий (16? млн.). Три державы не имели в 1876 г. никаких колоний, а четвёртая, Франция, почти не имела их. К 1914 году эти четыре державы приобрели колонии площадью в 14,1 млн кв. км, т. е. приблизительно раза в полтора больше площади Европы, с населением почти в 100 миллионов. Неравномерность в расширении колониального владения очень велика. Если сравнить, например, Францию, Германию и Японию, которые не очень сильно разнятся по величине площади и по количеству населения, то окажется, что первая из этих стран приобрела почти втрое больше колоний (по площади), чем вторая и третья, вместе взятые. Но по размерам финансового капитала Франция в начале рассматриваемого периода была, может быть, тоже в несколько раз богаче Германии и Японии, взятых вместе. На размер колониальных владений, кроме чисто экономических условий, и на базе их, оказывают влияние условия географические и пр. Как ни сильно шла за последние десятилетия нивелировка мира, выравнивание условий хозяйства и жизни в различных странах под давлением крупной промышленности, обмена и финансового капитала, но все же разница остается немалая, и среди названных шести стран мы наблюдаем, с одной стороны, молодые, необыкновенно быстро прогрессировавшие капиталистические страны (Америка, Германия, Япония); с другой — страны старого капиталистического развития, которые прогрессировали в последнее время гораздо медленнее предыдущих (Франция и Англия); с третьей, страну наиболее отставшую в экономическом отношении (Россию), в которой новейше-капиталистический империализм оплетён, так сказать, особенно густой сетью отношений докапиталистических.
+</p><p>Рядом с колониальными владениями великих держав мы поставили небольшие колонии маленьких государств, являющиеся, так сказать, ближайшим объектом возможного и вероятного «передела» колоний. Большей частью эти маленькие государства сохраняют свои колонии только благодаря тому, что между крупными есть противоположности интересов, трения и пр., мешающие соглашению о дележе добычи. Что касается до «полуколониальных» государств, то они дают пример тех переходных форм, которые встречаются во всех областях природы и общества. Финансовый капитал — такая крупная, можно сказать, решающая сила во всех экономических и во всех международных отношениях, что он способен подчинять себе и в действительности подчиняет даже государства, пользующиеся полнейшей политической независимостью; мы увидим сейчас примеры тому. Но, разумеется, наибольшие «удобства» и наибольшие выгоды даёт финансовому капиталу <i>такое</i> подчинение, которое связано с потерей политической независимости подчиняемыми странами и народами. Полуколониальные страны типичны, как «середина» в этом отношении. Понятно, что борьба из-за этих полузависимых стран особенно должна была обостриться в эпоху финансового капитала, когда остальной мир уже был поделен.
+</p><p>Колониальная политика и империализм существовали и до новейшей ступени капитализма и даже до капитализма. Рим, основанный на рабстве, вёл колониальную политику и осуществлял империализм. Но «общие» рассуждения об империализме, забывающие или отодвигающие на задний план коренную разницу общественно-экономических формаций, превращаются неизбежно в пустейшие банальности или бахвальство, вроде сравнения «великого Рима с великой Британией»<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>. Даже капиталистическая колониальная политика прежних стадий капитализма существенно отличается от колониальной политики финансового капитала.
+</p><p>Основной особенностью новейшего капитализма является господство монополистических союзов крупнейших предпринимателей. Такие монополии всего прочнее, когда захватываются в одни руки все источники сырых материалов, и мы видели, с каким рвением международные союзы капиталистов направляют свои усилия на то, чтобы вырвать у противника всякую возможность конкуренции, чтобы скупить, например, железорудные земли или нефтяные источники и т. п. Владение колонией одно даёт полную гарантию успеха монополии против всех случайностей борьбы с соперником — вплоть до такой случайности, когда противник пожелал бы защититься законом о государственной монополии. Чем выше развитие капитализма, чем сильнее чувствуется недостаток сырья, чем острее конкуренция и погоня за источниками сырья во всём мире, тем отчаяннее борьба за приобретение колоний.
+</p><p>«Можно выставить утверждение, — пишет Шильдер, — которое некоторым, пожалуй, покажется парадоксальным, именно: что рост городского и промышленного населения в более или менее близком будущем гораздо скорее может встретить препятствие в недостатке сырья для промышленности, чем в недостатке предметов питания». Так, например, обостряется недостаток дерева, которое всё более дорожает, — кож, — сырья для текстильной промышленности. «Союзы промышленников пытаются создать равновесие между сельским хозяйством и промышленностью в пределах всего мирового хозяйства; как пример можно назвать существующий с 1904 года международный союз союзов — бумагопрядильных фабрикантов в нескольких важнейших промышленных государствах; затем основанный по образцу его в 1910 году союз европейских союзов льнопрядильщиков»<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>.
+</p><p>Конечно, значение такого рода фактов буржуазные реформисты и среди них особенно теперешние каутскианцы пытаются ослабить указанием на то, что сырьё «можно бы» достать на свободном рынке без «дорогой и опасной» колониальной политики, что предложение сырья «можно бы» гигантски увеличить «простым» улучшением условий сельского хозяйства вообще. Но такие указания превращаются в апологетику империализма, в прикрашивание его, ибо они основываются на забвении главной особенности новейшего капитализма: монополий. Свободный рынок всё более отходит в область прошлого, монополистические синдикаты и тресты с каждым днём урезывают его, а «простое» улучшение условий сельского хозяйства сводится к улучшению положения масс, к повышению заработной платы и уменьшению прибыли. Где же, кроме как в фантазии сладеньких реформистов, существуют тресты, способные заботиться о положении масс вместо завоевания колоний?
+</p><p>Не только открытые уже источники сырья имеют значение для финансового капитала, но и возможные источники, ибо техника с невероятной быстротой развивается в наши дни, и земли, непригодные сегодня, могут быть сделаны завтра пригодными, если будут найдены новые приемы (а для этого крупный банк может снарядить особую экспедицию инженеров, агрономов и пр.), если будут произведены большие затраты капитала. То же относится к разведкам относительно минеральных богатств, к новым способам обработки и утилизации тех или иных сырых материалов и пр. и т. п. Отсюда — неизбежное стремление финансового капитала к расширению хозяйственной территории и даже территории вообще. Как тресты капитализируют свое имущество по двойной или тройной оценке, учитывая «возможные» в будущем (а не настоящие) прибыли, учитывая дальнейшие результаты монополии, так и финансовый капитал вообще стремится захватить как можно больше земель каких бы то ни было, где бы то ни было, как бы то ни было, учитывая возможные источники сырья, боясь отстать в бешеной борьбе за последние куски неподелённого мира или за передел кусков, уже разделённых.
+</p><p>Английские капиталисты всячески стараются развить производство хлопка в <i>своей</i> колонии, Египте, — в 1904 г. из 2,3 миллиона гектаров культурной земли в Египте уже 0,6 млн. было под хлопком, т. е. свыше четверти — русские в своей колонии, Туркестане, потому что таким путём они легче могут побить своих иностранных конкурентов, легче могут прийти к монополизации источников сырья, к созданию более экономного и прибыльного текстильного треста с «комбинированным» производством, с сосредоточением всех стадий производства и обработки хлопка в одних руках.
+</p><p>Интересы вывоза капитала равным образом толкают к завоеванию колоний, ибо на колониальном рынке легче (а иногда единственно только и возможно) монополистическими путями устранить конкурента, обеспечить себе поставку, закрепить соответствующие «связи» и пр.
+</p><p>Внеэкономическая надстройка, вырастающая на основе финансового капитала, его политика, его идеология усиливают стремление к колониальным завоеваниям. «Финансовый капитал хочет не свободы, а господства», справедливо говорит Гильфердинг. А один буржуазный французский писатель, как бы развивая и дополняя приведённые выше мысли Сесиля Родса, пишет, что к экономическим причинам современной колониальной политики следует прибавить социальные: «вследствие растущей сложности жизни и трудности, давящей не только на рабочие массы, но и на средние классы, во всех странах старой цивилизации скопляется „нетерпение, раздражение, ненависть, угрожающие общественному спокойствию; энергии, выбиваемой из определенной классовой колеи, надо найти применение, дать ей дело вне страны, чтобы не произошло взрыва внутри“»<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>.
+</p><p>Раз идет речь о колониальной политике эпохи капиталистического империализма, необходимо отметить, что финансовый капитал и соответствующая ему международная политика, которая сводится к борьбе великих держав за экономический и политический раздел мира, создают целый ряд <i>переходных</i> форм государственной зависимости. Типичны для этой эпохи не только две основные группы стран: владеющие колониями и колонии, но и разнообразные формы зависимых стран, политически, формально самостоятельных, на деле же опутанных сетями финансовой и дипломатической зависимости. Одну из форм — полуколонии — мы уже указали раньше. Образцом другой является, например, Аргентина.
+</p><p>«Южная Америка, а особенно Аргентина, — пишет Шульце-Геверниц в своем сочинении о британском империализме, — находится в такой финансовой зависимости от Лондона, что её следует назвать почти что английской торговой колонией»<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>. Капиталы, помещённые  Англией  в  Аргентине,  Шильдер  определял,  по  сообщениям  австро-венгерского консула в Буэнос-Айресе за 1909 г., в 8? миллиарда франков. Нетрудно себе представить, какие крепкие связи получает в силу этого финансовый капитал — и его верный «друг», дипломатия — Англии с буржуазией Аргентины, с руководящими кругами всей её экономической и политической жизни.
+</p><p>Несколько иную форму финансовой и дипломатической зависимости, при политической независимости, показывает нам пример Португалии. Португалия — самостоятельное, суверенное государство, но фактически в течение более 200 лет, со времени войны за испанское наследство (1701—1714), она находится под протекторатом Англии. Англия защищала её и её колониальные владения ради укрепления своей позиции в борьбе с своими противниками, Испанией, Францией. Англия получала в обмен торговые выгоды, лучшие условия для вывоза товаров и особенно для вывоза капитала в Португалию и её колонии, возможность пользоваться гаванями и островами Португалии, её кабелями и пр. и т. д.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Такого рода отношения между отдельными крупными и мелкими государствами были всегда, но в эпоху капиталистического империализма они становятся всеобщей системой, входят, как часть, в сумму отношений «раздела мира», превращаются в звенья операций всемирного финансового капитала.
+</p><p>Чтобы покончить с вопросом о разделе мира, мы должны отметить ещё следующее. Не только американская литература после испано-американской и английская после англо-бурской войн поставили этот вопрос вполне открыто и определённо в самом конце XIX и начале XX века, не только немецкая литература, всего «ревнивее» следившая за «британским империализмом», систематически оценивала этот факт. И во французской буржуазной литературе вопрос поставлен достаточно определённо и широко, поскольку это мыслимо с буржуазной точки зрения. Сошлёмся на историка Дрио, который в своей книге: «Политические и социальные проблемы в конце XIX века» в главе о «великих державах и разделе мира» писал следующее: «В течение последних лет все свободные места на земле, за исключением Китая, заняты державами Европы и Северной Америки. На этой почве произошло уже несколько конфликтов и перемещений влияния, являющихся предвестниками более ужасных взрывов в близком будущем. Ибо приходится торопиться: нации, не обеспечившие себя, рискуют никогда не получить своей части и не принять участия в той гигантской эксплуатации земли, которая будет одним из существеннейших фактов следующего (т. е. XX) века. Вот почему вся Европа и Америка были охвачены в последнее время лихорадкой колониальных расширений, „империализма“, который является самой замечательной характерной чертой конца XIX века». И автор добавлял: «При этом разделе мира, в этой бешеной погоне за сокровищами и крупными рынками земли, сравнительная сила империй, основанных в этом, XIX, веке, находится в полном несоответствии с тем местом, которое занимают в Европе нации, основавшие их. Державы, преобладающие в Европе, вершительницы её судеб, <i>не</i> являются равным образом преобладающими во всём мире. А так как колониальное могущество, надежда обладать богатствами, ещё не учтёнными, окажет очевидно своё отраженное действие на сравнительную силу европейских держав, то в силу этого колониальный вопрос — „империализм“, если хотите, — изменивший уже политические условия самой Европы, будет изменять их всё более и более»<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>.
+</p>
+<hr style="height:1px;width:8em;margin-left:0ex; margin-right:auto; margin-top: 2ex; margin-bottom: 2ex;"/><div class="references-small" style="">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">^</a></span> <span class="reference-text">A. Supan. «Die territoriale Entwicklung der europaischen Kolonien». 1906, стр. 254 (А. Супан. «Территориальное развитие европейских колоний». <i>Ред.</i>).</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">^</a></span> <span class="reference-text">Henry С. Morris. «The History of Colonization». N. Y., 1900, vol. II, pp. 88; I, 419; II, 304 (Генри К. Моррис. «История колонизации». Нью-Йорк, 1900, т. II, стр. 88; I, 419; II, 304. <i>Ред.</i>).</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">^</a></span> <span class="reference-text">«Die Neue Zeit», XVI, I, 1898, S. 302.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">^</a></span> <span class="reference-text">«Die Neue Zeit», XVI, I, 1898, S. 304.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">^</a></span> <span class="reference-text">C. P. Lucas. «Greater Rome and Greater Britain». Oxf., 1912 (Ч. П. Лукас. «Великий Рим и Великая Британия». Оксфорд, 1912. Ред.) или Earl of Cromer. «Ancient and modern Imperialism». L., 1910 (Граф Кромер. «Древний и современный империализм». Лондон, 1910. <i>Ред.</i>).</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">^</a></span> <span class="reference-text">Schilder, назв. соч., стр. 38—42.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">^</a></span> <span class="reference-text">Wahl. «La France aux colonies» (Валь. «Франция в колониях». <i>Ред.</i>), цитировано у Henri Russier. «Le Partage de l’Oceanie». P., 1905, p. 165 (Анри Рюссье. «Раздел Океании». Париж, 1905, стр. 165. <i>Ред.</i>).</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">^</a></span> <span class="reference-text">Schulze-G?vernitz. «Britischer Imperialismus und englischer Freihandel zu Beginn des 20-ten Jahrhunderts». Lpz., 1906, стр. 318 (Шульце-Геверниц. «Британский империализм и английская свободная торговля начала 20-го века». Лейпциг, 1906. <i>Ред.</i>). То же говорит Sartorius v. Waltershausen. «Das volkswirtschaftliche System der Kapitalanlage im Auslande». Berlin, 1907. S. 46 (Сарториус фон Вальтерсхаузен. «Народнохозяйственная система помещения капитала за границей». Берлин, 1907, стр. 46. <i>Ред.</i>).</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">^</a></span> <span class="reference-text">Шильдер, назв. соч., I т., стр. 160—161.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">^</a></span> <span class="reference-text">J.-E. Driault. «Problemes politiques et sociaux». P., 1900, стр. 299 (Ж.-Э. Дрио. «Политические и социальные проблемы». Париж. <i>Ред.</i>).</span>
+</li>
+</ol>
